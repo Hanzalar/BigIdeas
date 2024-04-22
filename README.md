@@ -8,16 +8,16 @@ This project aims to identify the most dangerous places in Pittsburgh based on d
 - **Hanzala Rehan** - [hanzalar](https://github.com/Hanzalar)
 
 ## Repository Structure
-├── 2022CrashData.csv
-├── Crashanalysis.ipynb
-├── Map_of_Allegheny_County,Pennsylvania.png
-├── Neighborhoods.shp
-├── README.md
-├── allegheny-county-pennsylvania-zip-codes-map.png
-├── ems_dispatches.ipynb
-├── mun.txt
-├── overdoses.ipynb
-└── pittsburgh-nbhds.png
+- ├── 2022CrashData.csv
+- ├── Crashanalysis.ipynb
+- ├── Map_of_Allegheny_County,Pennsylvania.png
+- ├── Neighborhoods.shp
+- ├── README.md
+- ├── allegheny-county-pennsylvania-zip-codes-map.png
+- ├── ems_dispatches.ipynb
+- ├── mun.txt
+- ├── overdoses.ipynb
+- └── pittsburgh-nbhds.png
 
 
 ## Analytical Process
